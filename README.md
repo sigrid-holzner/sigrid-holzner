@@ -12,6 +12,10 @@ GEO und KI-Sichtbarkeit (Multi-Engine-Analyse, Citation-Quellen, Entity- und Sch
 
 Glasbau-Studie 2026: systematische Untersuchung von 19 deutschen Online-Glas-Shops in KI-Suchsystemen. Basis: 8 Wochen Erhebung, 6 KI-Modelle, 1.340 KI-Antworten, 3.134 klassifizierte Quellen.
 
+### Tools
+
+[geo-log-analyzer](https://github.com/sigrid-holzner/geo-log-analyzer): Auswertung von Server-Logfiles auf KI-Crawler, welche KI-Bots zugreifen und welche geblockt werden.
+
 ### Mehr
 
 Website: https://sigrid-holzner.com  ·  LinkedIn: https://www.linkedin.com/in/sigrid-holzner/
