@@ -1,6 +1,6 @@
-## Sigrid Holzner — SEO & GEO Strategin
+## Sigrid Holzner | GEO- & SEO-Beraterin
 
-Strategische KI-Sichtbarkeit (Generative Engine Optimization, GEO) für Mittelstand und E-Commerce im DACH-Raum. 15 Jahre SEO, seit zwei Jahren Schwerpunkt GEO.
+Strategische KI-Sichtbarkeit (Generative Engine Optimization, GEO) für Mittelstand, Industrie, Bau und E-Commerce im DACH-Raum. 15 Jahre SEO, seit zwei Jahren Schwerpunkt GEO.
 
 Ich analysiere und optimiere, wie KI-Systeme wie ChatGPT, Google AI Overviews, Google AI Mode und Perplexity Marken wahrnehmen, zitieren und empfehlen, und übersetze das in messbare Anfragen.
 
