@@ -1,16 +1,19 @@
-## Hi there 👋
+## Sigrid Holzner — SEO & GEO Strategin
 
-<!--
-**sigrid-holzner/sigrid-holzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategische KI-Sichtbarkeit (Generative Engine Optimization, GEO) für Mittelstand und E-Commerce im DACH-Raum. 15 Jahre SEO, seit zwei Jahren Schwerpunkt GEO.
 
-Here are some ideas to get you started:
+Ich analysiere und optimiere, wie KI-Systeme wie ChatGPT, Google AI Overviews, Google AI Mode und Perplexity Marken wahrnehmen, zitieren und empfehlen, und übersetze das in messbare Anfragen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Was ich mache
+
+GEO und KI-Sichtbarkeit (Multi-Engine-Analyse, Citation-Quellen, Entity- und Schema-Diagnose, Wettbewerbs-Muster), technisches SEO und Content-Strategie, sowie Monitoring von KI-Empfehlungen über Engines und Zeit.
+
+### Eigene Forschung
+
+Glasbau-Studie 2026: systematische Untersuchung von 19 deutschen Online-Glas-Shops in KI-Suchsystemen. Basis: 8 Wochen Erhebung, 6 KI-Modelle, 1.340 KI-Antworten, 3.134 klassifizierte Quellen.
+
+### Mehr
+
+Website: https://sigrid-holzner.com  ·  LinkedIn: https://www.linkedin.com/in/sigrid-holzner/
+
+Themen: Generative Engine Optimization, GEO, AI Search Optimization, SEO Beratung, KI-Sichtbarkeit, ChatGPT SEO, Google AI Overviews, Perplexity, DACH, Mittelstand, E-Commerce.
