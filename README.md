@@ -10,7 +10,7 @@ GEO und KI-Sichtbarkeit (Multi-Engine-Analyse, Citation-Quellen, Entity- und Sch
 
 ### Eigene Forschung
 
-Glasbau-Studie 2026: systematische Untersuchung von 19 deutschen Online-Glas-Shops in KI-Suchsystemen. Basis: 8 Wochen Erhebung, 6 KI-Modelle, 1.340 KI-Antworten, 3.134 klassifizierte Quellen.
+Glasbau-Studie 2026, laufende Erhebung: systematische Untersuchung von 19 deutschen Online-Glas-Shops in KI-Suchsystemen, über sechs KI-Modelle hinweg, darunter ChatGPT, Google AI Overviews, Google AI Mode und Google Gemini. Bisheriger Stand: über 1.340 klassifizierte KI-Antworten und mehr als 3.134 ausgewertete Quellen, weiter wachsend.
 
 ### Tools
 
